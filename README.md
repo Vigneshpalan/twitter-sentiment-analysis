@@ -69,24 +69,6 @@ This project demonstrates the implementation of a sentiment analysis model using
 
 ---
 
-Feel free to contribute to this project by submitting issues or pull requests. For more information, refer to the project documentation.
-
-### Repository Structure
-
-```
-.
-├── data
-│   ├── train.csv
-│   ├── test.csv
-├── src
-│   ├── preprocess.py
-│   ├── feature_extraction.py
-│   ├── logistic_regression.py
-│   ├── train.py
-│   ├── test.py
-├── README.md
-└── requirements.txt
-```
 
 ### Requirements
 
@@ -111,33 +93,4 @@ Feel free to contribute to this project by submitting issues or pull requests. F
    pip install -r requirements.txt
    ```
 
-### Usage
-
-1. Preprocess the data:
-   ```
-   python src/preprocess.py
-   ```
-2. Extract features:
-   ```
-   python src/feature_extraction.py
-   ```
-3. Train the model:
-   ```
-   python src/train.py
-   ```
-4. Test the model:
-   ```
-   python src/test.py
-   ```
-
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-### Acknowledgements
-
-Special thanks to the contributors and the open-source community for their support and collaboration.
-
----
-
-You can copy and paste this content into your README.md file on GitHub. If you encounter issues with committing the changes, ensure you have the necessary permissions and there are no conflicts with other branches or files.
+branches or files.
