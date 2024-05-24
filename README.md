@@ -1,6 +1,4 @@
-Certainly! Here's the README content again, formatted for you to copy and use directly in your GitHub repository:
 
----
 
 # Twitter Sentiment Analysis Using Logistic Regression
 
