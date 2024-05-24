@@ -1,4 +1,4 @@
-##Twitter Sentiment Analysis Using Logistic Regression
+Twitter Sentiment Analysis Using Logistic Regression
 This project is a implementation of a sentiment analysis model for Teitter data using a logistic regression algorithm. The project includes the following steps:
 
 Preprocessing of Twitter data
