@@ -61,7 +61,7 @@ The model achieves an accuracy of 87% on the test data. This indicates a strong 
 
 ## Conclusion
 
-This project demonstrates the implementation of a sentiment analysis model using logistic regression. The preprocessing steps, feature extraction using TF-IDF, and training the logistic regression model. The model's accuracy of 87% shows its effectiveness in sentiment analysis tasks for Twitter data.
+This project demonstrates the implementation of a sentiment analysis model using logistic regression. The preprocessing steps, feature extraction using TF-IDF,optimizing technique used is libilinear = solver and ovr stratergy for multiclass classification , training the logistic regression model. The model's accuracy of 87% shows its effectiveness in sentiment analysis tasks for Twitter data.
 
 ---
 
