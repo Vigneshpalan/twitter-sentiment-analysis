@@ -61,7 +61,7 @@ The model achieves an accuracy of 87% on the test data. This indicates a strong 
 
 ## Conclusion
 
-This project demonstrates the implementation of a sentiment analysis model using logistic regression. The preprocessing steps, feature extraction using TF-IDF, and training the logistic regression model from scratch using gradient descent are key components of the project. The model's accuracy of 87% shows its effectiveness in sentiment analysis tasks for Twitter data.
+This project demonstrates the implementation of a sentiment analysis model using logistic regression. The preprocessing steps, feature extraction using TF-IDF, and training the logistic regression model. The model's accuracy of 87% shows its effectiveness in sentiment analysis tasks for Twitter data.
 
 ---
 
