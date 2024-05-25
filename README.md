@@ -45,8 +45,6 @@ The logistic regression model is trained from scratch using a gradient descent f
 2. **Computing the Cost Function:**
    - Use the logistic loss function to compute the cost.
 
-3. **Gradient Descent:**
-   - Iteratively update the weights to minimize the cost function.
 
 The logistic regression model is extended to solve the multi-class classification problem with three classes: 
 - 0: Negative
